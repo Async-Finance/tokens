@@ -1,0 +1,61 @@
+{
+  "name": "Merlin Testnet Whitelist ",
+  "timestamp": "2024-04-09T04:10:44.262Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 686868,
+      "name": "AsyncBox",
+      "address": "0x9C708EF11C247094848Fa508e245D6a835C78F95",
+      "symbol": "AsyncBox",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Async-Finance/async-box/main/1.gif"
+    },
+    {
+      "chainId": 686868,
+      "name": "WBTC",
+      "address": "0x319613a9b3839a47793990f86A39FdCeB6302d98",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "isWrapToken": true
+    },
+    {
+      "chainId": 686868,
+      "name": "USDT",
+      "address": "0x876508837C162aCedcc5dd7721015E83cbb4e339",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 686868,
+      "name": "USD Coin",
+      "address": "0x83F046B90D556C401c9C631B65e1eD3B373EeaFb",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+    },
+    {
+      "chainId": 686868,
+      "name": "HUHU CAT",
+      "address": "0x879cd319b8aa506F4130acf766fA8E3654eD249B",
+      "symbol": "HUHU",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/huhu.png"
+    },
+    {
+      "chainId": 686868,
+      "name": "VOYA",
+      "address": "0x60FE1bE62fa2082b0897eA87DF8D2CfD45185D30",
+      "symbol": "VOYA",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/voya.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}

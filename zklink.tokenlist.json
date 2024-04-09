@@ -1,0 +1,53 @@
+{
+  "name": "Zklink Whitelist ",
+  "timestamp": "2024-04-09T04:10:44.262Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 810180,
+      "name": "WETH",
+      "address": "0x1dcE3B3d695e3de0C8CC9190942098B4CC443b60",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+      "isWrapToken": true
+    },
+    {
+      "chainId": 810180,
+      "name": "Aurora",
+      "address": "0xd4C8500Aeb4fb24f4aBEfED96AA92AbA5FFe4F3c",
+      "symbol": "Aurora",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Async-Finance/async-box/main/2.gif"
+    },
+    {
+      "chainId": 810180,
+      "name": "USD Coin",
+      "address": "0x7581469cb53E786F39ff26E8aF6Fd750213dAcEd",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 810180,
+      "name": "Tether USD",
+      "address": "0x0ace5E8e1Be0d3Df778f639d79fa8231b376b9F1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 810180,
+      "name": "Wrapped BTC",
+      "address": "0xEbc45Ef3B6D7E31573DAa9BE81825624725939f9",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}
