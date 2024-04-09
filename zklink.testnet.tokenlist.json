@@ -31,6 +31,14 @@
       "symbol": "TTT",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15608.png"
+    },
+    {
+      "chainId": 810182,
+      "name": "Async USD",
+      "address": "0x085F31d8cE28c052358c3065D4B43B83EBfd0fFA",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20317.png"
     }
   ],
   "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
